@@ -1,4 +1,3 @@
-
 ## 🚀 About This Project
 
 This repository contains **JavaScript implementations** for exercises in *Module 2: Critical Thinking*. The module focuses on developing analytical thinking, logical reasoning, and problem‑solving skills through coding challenges.
